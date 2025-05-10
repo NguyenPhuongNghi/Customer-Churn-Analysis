@@ -53,15 +53,15 @@ Use Power BI to monitor and analyze customer churn of a fictional telecom compan
 - % Total customers that churned because of "attitude" (of support person/service provider) and dissatisfaction are considerable, at 15.98% and 15.92%. This hightlight the needs to improve customer service, especially in Alabama and Maryland.
 ## 6. Insights:
 **- Competitor Analysis & Offer Improvement:** Conduct competitor analysis to understand their strengths and offers. Develop more attractive pricing, bundles, and device options to compete effectively.
-**- Target Engagement for Older Customers:** Develop tailored communication or support to help them with technical difficulties or different needs, etc because % total churned customer aged 70 and above is consider (30-35%)
-**- Incentivize Longer-Term Contracts:** Offer discounts, exclusive features, or other benefits to encourage customers to commit to one or two-year contracts.
-**- Promote Group Contracts:** Actively market group plans and their advantages to increase adoption.
-**- Customer Service Training & Improvement:** Invest in comprehensive training for support staff focusing on empathy, problem-solving, and positive communication. Implement quality assurance measures and feedback mechanisms.
-**-Promote Unlimited Plans:** Actively market the benefits of unlimited data and international plans to customers who have high demands for download volume and making international calls.
-**- Offer Flexible Plan Options:** Consider offering tiered plans or add-ons that better suit different usage patterns categorized by consumption level, reducing the likelihood of unexpected overages.
-**- Review Overage Pricing:** Evaluate the pricing structure for extra data and international calls to ensure it is fair and doesn't lead to significant customer dissatisfaction.
-**- Improve First Call Resolution:** Focus on resolving customer issues effectively on the first contact to reduce the need for repeated calls and potential frustration.
-**- Identify common issues and pain points raised by customers contacting support and address them proactively. Provide sufficient training for all customer service staff. 
+<br> **- Target Engagement for Older Customers:** Develop tailored communication or support to help them with technical difficulties or different needs, etc because % total churned customer aged 70 and above is consider (30-35%)
+<br> **- Incentivize Longer-Term Contracts:** Offer discounts, exclusive features, or other benefits to encourage customers to commit to one or two-year contracts.
+<br> **- Promote Group Contracts:** Actively market group plans and their advantages to increase adoption.
+<br> **- Customer Service Training & Improvement:** Invest in comprehensive training for support staff focusing on empathy, problem-solving, and positive communication. Implement quality assurance measures and feedback mechanisms.
+<br> **-Promote Unlimited Plans:** Actively market the benefits of unlimited data and international plans to customers who have high demands for download volume and making international calls.
+<br> **- Offer Flexible Plan Options:** Consider offering tiered plans or add-ons that better suit different usage patterns categorized by consumption level, reducing the likelihood of unexpected overages.
+<br> **- Review Overage Pricing:** Evaluate the pricing structure for extra data and international calls to ensure it is fair and doesn't lead to significant customer dissatisfaction.
+<br> **- Improve First Call Resolution:** Focus on resolving customer issues effectively on the first contact to reduce the need for repeated calls and potential frustration.
+<br> **- Analyze Customer Service Interactions:** Identify common issues and pain points raised by customers contacting support and address them proactively. Provide sufficient training for all customer service staff. 
 
 
 
