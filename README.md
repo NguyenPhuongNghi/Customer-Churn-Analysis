@@ -4,16 +4,16 @@ Use Power BI to monitor and analyze customer churn of a fictional telecom compan
 - This project analyzes a telecom customer dataset to understand why customers stop using services (churn).
 - The main goal is to identify customer characteristics, behaviors, and contract details linked to high churn rates and provide actionable insights for creating effective customer retention strategies.
 ## 2. Dataset Description:
-- Source: Datacamp
-- Time period: Not given
-- Company: Databel (Fictional)
-- Key fields: Churn Reason, Churn Category, Age, Contract Type, Payment Method, Monthly Charges, Data Unlimited Plan, Intl Plan
-- Data dictionary: (attached above)
+- **Source:** Datacamp
+- **Time period:** Not given
+- **Company:** Databel (a fictional telecom company)
+- **Key fields:** Churn Reason, Churn Category, Age, Contract Type, Payment Method, Monthly Charges, Data Unlimited Plan, Intl Plan
+- **Data dictionary:** [attached file](https://github.com/NguyenPhuongNghi/Customer-Churn-Analysis/blob/main/data%20dictionary%20(customer%20churn%20analysis).pdf)
 ## 3. Tool used:
 - Power BI (Power Query, DAX measures, Visuals)
 ## 4. Key features:
 - Churn rates = Number of Churned Customer / Total Number of Customer
-## 5. Analysis:
+## 5. Analysis: [attached file](https://github.com/NguyenPhuongNghi/Customer-Churn-Analysis/blob/main/Customer%20Churn%20Analysis.pbix)
 ### Page 1: Overview
 ![alt](https://github.com/NguyenPhuongNghi/Customer-Churn-Analysis/blob/main/photo/Screenshot%202025-05-10%20150344.png?raw=true)
 #### By Churn Reasons/Categories:
