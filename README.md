@@ -13,9 +13,12 @@ Use Power BI to monitor and analyze customer churn of a fictional telecom compan
 - Power BI (Power Query, DAX measures, Visuals)
 ## 4. Key features:
 - Churn rates = Number of Churned Customer / Total Number of Customer
-## 5. Dashboard: [attached file](https://github.com/NguyenPhuongNghi/Customer-Churn-Analysis/blob/main/Customer%20Churn%20Analysis.pbix)
+## 5. Dashboard: [attached file]()
 ### Page 1: Overview
 ![alt](https://github.com/NguyenPhuongNghi/Customer-Churn-Analysis/blob/main/photo/Screenshot%202025-05-28%20151950.png?raw=true)
+#### By Age Group:
+- The largest customer segments appear to be in the Young to Mid Adults (25-44) and Middle-Aged Adults (45-64).
+- The churn rates show a generally increasing trend with age, particularly noticeable in the 65+ age group. This suggests that older customers might be more likely to churn.
 #### By Churn Reasons/Categories:
 - The top reasons for churn are related to competitor offerings, with "Competitor made better offers" (16.87%) and "Competitor had better devices" (16.54%) being the leading causes.
 - "Attitude of support person" (11.30%) is also a significant factor, highlighting the importance of customer service<br>
@@ -26,9 +29,7 @@ Use Power BI to monitor and analyze customer churn of a fictional telecom compan
 - Churn rates varies geographically and the state with the highest churn rates is California (63.24%)
 ### Page 2: Analyze Churn rates by Age, Payment Method and Contract type
 ![alt](https://github.com/NguyenPhuongNghi/Customer-Churn-Analysis/blob/main/photo/Screenshot%202025-05-28%20152442.png?raw=true)
-#### By Age Group:
-- The largest customer segments appear to be in the middle age ranges (20s to 50s).
-- The churn rates show a generally increasing trend with age, particularly noticeable in the 70-80 age group. This suggests that older customers might be more likely to churn.
+
 #### By Payment Method:
 - Direct Debit has the highest number of customers (55.36%), followed by Credit Card (39.09%) and then Paper Check (5.55%).
 - Paper Check has the highest churn rates (38.01%), followed by Direct Debit (34.49%) and Credit Card (14.46%). This might be due to the inconvenience of Paper Check
