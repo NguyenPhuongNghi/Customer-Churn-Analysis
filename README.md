@@ -13,7 +13,7 @@ Use Power BI to monitor and analyze customer churn of a fictional telecom compan
 - Power BI (Power Query, DAX measures, Visuals)
 ## 4. Key features:
 - Churn rates = Number of Churned Customer / Total Number of Customer
-## 5. Analysis: [attached file](https://github.com/NguyenPhuongNghi/Customer-Churn-Analysis/blob/main/Customer%20Churn%20Analysis.pbix)
+## 5. Dashboard: [attached file](https://github.com/NguyenPhuongNghi/Customer-Churn-Analysis/blob/main/Customer%20Churn%20Analysis.pbix)
 ### Page 1: Overview
 ![alt](https://github.com/NguyenPhuongNghi/Customer-Churn-Analysis/blob/main/photo/Screenshot%202025-05-10%20150344.png?raw=true)
 #### By Churn Reasons/Categories:
